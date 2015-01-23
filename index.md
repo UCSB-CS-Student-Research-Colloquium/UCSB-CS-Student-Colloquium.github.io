@@ -1,11 +1,13 @@
 ---
 layout: default
-title: UCSB CS GradReps 
+title: UCSB CS Student Research Colloquium
 ---
 
-Welcome
+Welcome to the first Student Research Colloquium
 =======
 
-This webpage is maintained by the graduate student representatives as a service to the graduate student body of the [Computer Science Department](http://www.cs.ucsb.edu) at [UC, Santa Barbara](http://www.ucsb.edu). The CS Department has a number of student representatives that attend most departmental meetings to ensure student issues are considered. Four representatives also attend university-wide GSA assemblies to voice your concerns over issues pertaining to your graduate education. [Contact us](/contact/) to get involved!
+Interested in practicing your research presentation skills? The UCSB CS Student Research Colloquium is a student-led event designed for students in the department to gain experience presenting research to a broader audience. Participate by giving a short talk on your research or by providing feedback for speakers!
+
+The event will be Friday, February 27, from 3 to 5 pm. Refreshments will be provided.
 
 {% include news_list.html %}
