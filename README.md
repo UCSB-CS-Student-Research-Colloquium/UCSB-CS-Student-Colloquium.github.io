@@ -1,8 +1,8 @@
-[UCSB-CS-Graduate-Representatives.github.io](http://ucsb-cs-graduate-representatives.github.io/)
+[UCSB-CS-Student-Research-Colloquium](http://ucsb-cs-graduate-representatives.github.io/)
 ==========================================
 
-The new open-source Gradreps website 
-------------------------------------
+The open-source website for the CS Student Research Colloquium
+------------------------------------------
 
 Interested in contributing to [the website](http://ucsb-cs-graduate-representatives.github.io/)? Curious how it is put together? Want to use it as a building block to create your own? Here's how!
 
