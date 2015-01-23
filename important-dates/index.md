@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Who we are 
+title: Important Dates 
 ---
 
 Important Dates
