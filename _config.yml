@@ -18,14 +18,14 @@ markdown: kramdown
 
 # Navigation toolbar:
 navigation:
-    - text: Important dates
+    - text: Important Dates
       url: /important-dates/
     - text: Speakers
       url: /speakers/
-    - text: Contact us
+    - text: Contact Us
       url: /contact/
 
-collections:
-    GradReps: # Collection of GradRep profiles (in /_GradReps/)
-        output: true # Each GradRep gets a html webpage
-        permalink: /gradrep/:path/
+#collections:
+#    GradReps: # Collection of GradRep profiles (in /_GradReps/)
+#        output: true # Each GradRep gets a html webpage
+#        permalink: /gradrep/:path/
