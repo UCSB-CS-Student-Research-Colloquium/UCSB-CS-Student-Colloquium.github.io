@@ -1,16 +1,16 @@
 # Site settings
-title: UCSB CS Graduate Representatives
-email: gradreps@cs.ucsb.edu
+title: UCSB CS Student Research Colloquium
+email: mvigil@cs.ucsb.edu
 description: > # this means to ignore newlines until next entry 
     University of California, Santa Barbara
     Computer Science
-    Graduate Student Representatives
+    Student Research Colloquium
 
 footer_1: University of California, Santa Barbara
-footer_2: Computer Science Graduate Student Representatives
+footer_2: Department of Computer Science
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://ucsb-cs-graduate-representatives.github.io" # the base hostname & protocol for your site
-github_username: UCSB-CS-Graduate-Representatives
+url: "https://ucsb-cs-student-research-colloquium.github.io" # the base hostname & protocol for your site
+github_username: UCSB-CS-Student-Research-Colloquium
 permalink: pretty
 
 # Build settings
