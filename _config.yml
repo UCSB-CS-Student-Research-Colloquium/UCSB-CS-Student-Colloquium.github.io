@@ -18,6 +18,10 @@ markdown: kramdown
 
 # Navigation toolbar:
 navigation:
+    - text: Organizers
+      url: /organizers/
+    - text: CFP
+      url: /calls/
     - text: Important Dates
       url: /important-dates/
     - text: Speakers
