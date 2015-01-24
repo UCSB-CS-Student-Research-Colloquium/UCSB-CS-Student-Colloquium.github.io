@@ -30,6 +30,6 @@ navigation:
       url: /contact/
 
 collections:
-    Organizers: # Collection of Organizer profiles (in /_Organizers/)
+    GradReps: # Collection of GradRep profiles (in /_GradReps/)
         output: true # Each GradRep gets a html webpage
-        permalink: /organizer/:path/
+        permalink: /gradrep/:path/
