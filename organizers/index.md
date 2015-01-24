@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Who we are 
+title: Organizing committee 
 ---
 
 Organizing committee

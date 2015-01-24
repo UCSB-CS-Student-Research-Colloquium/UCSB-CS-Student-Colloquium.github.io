@@ -29,7 +29,7 @@ navigation:
     - text: Contact Us
       url: /contact/
 
-#collections:
-#    GradReps: # Collection of GradRep profiles (in /_GradReps/)
-#        output: true # Each GradRep gets a html webpage
-#        permalink: /gradrep/:path/
+collections:
+    Organizers: # Collection of Organizer profiles (in /_Organizers/)
+        output: true # Each GradRep gets a html webpage
+        permalink: /organizers/:path/
