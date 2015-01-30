@@ -14,15 +14,11 @@ The goal of this colloquium is to give graduate students of our department an op
 We are now soliciting your participation! The application consists of a short abstract for your 5-minute research presentation (the usage of slides is optional).
 We believe this will benefit you in a number of ways:
 
-	-Practice in delivering an engaging, understandable, and impactful research pitch to a diverse technical audience
-
-	-Development of professional presentation skills
-
-	-Detailed feedback on your research pitch from peers and faculty
-
-	-More visibility within the department, possibly leading to opportunities for intra-departmental collaboration
-
-	-Free food and prizes! (Think of this as a slightly more technical CS coffee hour.)
+	*Practice in delivering an engaging, understandable, and impactful research pitch to a diverse technical audience
+	*Development of professional presentation skills
+	*Detailed feedback on your research pitch from peers and faculty
+	*More visibility within the department, possibly leading to opportunities for intra-departmental collaboration
+	*Free food and prizes! (Think of this as a slightly more technical CS coffee hour.)
 
 
 Application
