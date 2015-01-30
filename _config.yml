@@ -34,6 +34,6 @@ collections:
         output: true # Each GradRep gets a html webpage
         permalink: /gradrep/:path/
 
-    Faculty: # Collection of GradRep profiles (in /_GradReps/)
-        output: true # Each GradRep gets a html webpage
+    Faculty: # Collection of Faculty profiles (in /_Faculty/)
+        output: true # Each Faculty gets a html webpage
         permalink: /faculty/:path/
