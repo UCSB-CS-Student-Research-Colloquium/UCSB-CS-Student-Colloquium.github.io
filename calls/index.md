@@ -13,6 +13,7 @@ We are pleased to announce the first CS Student Research Colloquium!
 The goal of this colloquium is to give graduate students of our department an opportunity to give a quick (5-minute long), concise presentation about their research to fellow CS grad students and faculty.
 We are now soliciting your participation! The application consists of a short abstract for your 5-minute research presentation (the usage of slides is optional).
 We believe this will benefit you in a number of ways:
+
 *Practice in delivering an engaging, understandable, and impactful research pitch to a diverse technical audience
 *Development of professional presentation skills
 *Detailed feedback on your research pitch from peers and faculty
