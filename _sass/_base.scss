@@ -250,3 +250,26 @@ ul#gradreps li div.gradrep a.gradrep_name {
     font-weight: bold;
     font-size: 1.25em;
 }
+
+ul#faculty {
+    margin: 0;
+}
+
+ul#faculty li {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    list-style: none;
+}
+
+ul#faculty li div.gradrep {
+    height: 125px;
+}
+
+ul#faculty li div.gradrep div.gradrep_description ul li {
+}
+
+ul#faculty li div.gradrep a.gradrep_name {
+    font-weight: bold;
+    font-size: 1.25em;
+}
+
