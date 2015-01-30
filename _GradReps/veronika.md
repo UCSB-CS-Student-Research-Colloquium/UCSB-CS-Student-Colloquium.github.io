@@ -2,7 +2,8 @@
 name: Veronika Strnadova-Neeley
 email: veronika [at] cs.ucsb.edu
 picture: http://www.cs.ucsb.edu/~veronika/flowersin_botanicalgarden.jpg
-positions: Student Organizer
+positions: 
+    - position: Student Organizer
 description: >
 
 layout: profile
