@@ -1,12 +1,15 @@
 ---
 layout: default
-title: Speakers 
+title: Schedule
 ---
 
-Speakers
+Schedule
 =======
 
-TBA
+3-4:15
 -------
 
+Introduction and thanks to our sponsors
+
+**Kevin Deweese** Laplacian World Championships
 
