@@ -48,7 +48,7 @@ Schedule
 
 **Honglei Liu**   _Data Clustering for Fast Motif Discovery_
 
-**Joseph McMah**   _Functional Programming at the ISA Level: Building Correct, Secure, Proof-Carrying Hardware/Software Systems_
+**Joseph McMahan**   _Functional Programming at the ISA Level: Building Correct, Secure, Proof-Carrying Hardware/Software Systems_
 
 **Yan Shoshitaish**   _Rear Entry: Identifying Backdoors in Firmware_
 
