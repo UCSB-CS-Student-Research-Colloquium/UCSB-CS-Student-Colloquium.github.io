@@ -6,7 +6,8 @@ title: Schedule
 Schedule
 =======
 
-Introduction
+**Introduction**
+-------
 
 **Session I** 3:05-4:15
 -------
