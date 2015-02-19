@@ -50,7 +50,7 @@ Schedule
 
 **Joseph McMahan**   _Functional Programming at the ISA Level: Building Correct, Secure, Proof-Carrying Hardware/Software Systems_
 
-**Yan Shoshitaish**   _Rear Entry: Identifying Backdoors in Firmware_
+**Yan Shoshitaishvili**   _Rear Entry: Identifying Backdoors in Firmware_
 
 **Alexander Pucher**   _Using Trustworthy Simulation to Engineer Cloud Schedulers_
 
@@ -58,4 +58,4 @@ Schedule
 
 **Zhaoxia (Summer) Deng**   _Adaptive Prediction Strategy for Automatically Scalable Computation_
 
-**Jacopo Corbett** _What Humans See, What Programs See_
+**Jacopo Corbetta** _What Humans See, What Programs See_
