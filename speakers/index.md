@@ -6,10 +6,10 @@ title: Schedule
 Schedule
 =======
 
-**Introduction**
+**Introduction and Reception** 3:00-3:15
 -------
 
-**Session I** 3:05-4:15
+**Session I** 3:15-4:30
 -------
 
 **Kevin Deweese**   _Laplacian World Championships_ 
@@ -31,11 +31,11 @@ Schedule
 **Veronika Strnadova-Neeley**   _Clustering in Genetic Mapping_
 
 
-**Break** 4:15-4:30
+**Break** 4:30-4:45
 -------
 
 
-**Session II** 4:30-5:30
+**Session II** 4:45-5:45
 -------
 
 **Faisal Nawab**   _Zero-Overhead NVM Crash Resilience_
@@ -59,3 +59,6 @@ Schedule
 **Zhaoxia (Summer) Deng**   _Adaptive Prediction Strategy for Automatically Scalable Computation_
 
 **Jacopo Corbetta** _What Humans See, What Programs See_
+
+**Announcement of Prize Winners** 
+-------
