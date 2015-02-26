@@ -10,7 +10,7 @@ The UCSB CS Student Research Colloquium is a student-led event designed for stud
 
 Check out the [Call for Participation](calls/).
 
-Come participate on Friday, February 27, from 3 to 5:30 pm.
+Come by to HFH 1132 and participate on Friday, February 27, from 3 to 5:30 pm.
 -------
 
 Our Sponsors
