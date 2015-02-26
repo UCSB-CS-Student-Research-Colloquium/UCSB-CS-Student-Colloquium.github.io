@@ -12,7 +12,7 @@ Schedule
 **Session I** 3:15-4:30
 -------
 
-**Kevin Deweese**   _Laplacian World Championships_ 
+**Kevin Deweese**   _[Laplacian World Championships](https://docs.google.com/forms/d/1362BL1k2m81ftAg8txr29b8u88XPd74Rp3ArqQSx1ZA/viewform?entry.1612069068=Kevin+Deweese&entry.1030328211)_ 
 
 **Arya Pourzanja**   _Inference of Circadian Networks Using Granger Causality_
 
