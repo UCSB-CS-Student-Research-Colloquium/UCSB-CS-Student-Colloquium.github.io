@@ -12,10 +12,10 @@ Important Dates
 ~~Deadline for applications: February 13, 2015, 11:59pm PST~~
 -------
 
-Notification of speaker acceptance, February 20, 2015
+~~Notification of speaker acceptance, February 20, 2015~~
 -------
 
-Deadline for slides: February 25, 2015, 11:59pm PST
+EXTENDED deadline for slides: February 26, 2015, 11:59pm PST
 -------
 
 Student Research Colloquium: February 27, 2015, 3:00-5:00pm PST

@@ -31,5 +31,5 @@ Applications are due by February 13, 2015, 11:59pm PST.
 Slides
 -------
 
-Each speaker is allowed to use a maximum of 3 slides during their presentation. Slides MUST be sent to mvigil@cs.ucsb.edu by February 25, 2015, 11:59pm PST. All slides MUST be in Adobe PDF format. We will be presenting slides off of a single machine during the event to maximize the number of speakers that can participate and we appreciate your cooperation towards that effort!
+Slides MUST be sent to mvigil@cs.ucsb.edu by February 25, 2015, 11:59pm PST. All slides MUST be in Adobe PDF format. We will be presenting slides off of a single machine during the event to maximize the number of speakers that can participate and we appreciate your cooperation towards that effort!
 
