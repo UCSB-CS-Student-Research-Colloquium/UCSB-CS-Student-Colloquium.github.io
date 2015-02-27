@@ -8,10 +8,11 @@ Welcome to the first Student Research Colloquium!
 
 The UCSB CS Student Research Colloquium is a student-led event designed for students in the department to gain experience presenting research to a broader audience. Participate by giving a short talk on your research or by providing feedback to speakers!
 
-[Check in for a chance to win a cash prize!](https://docs.google.com/forms/d/1snQdM0_RW94e--ZXd_PnXBFJe_UF99v5NO9bG9POtcI/viewform?usp=send_form)
+[Students check in here for a chance to win a cash prize!](https://docs.google.com/forms/d/1snQdM0_RW94e--ZXd_PnXBFJe_UF99v5NO9bG9POtcI/viewform?usp=send_form)
 -------
 
-Check out the [Call for Participation](calls/).
+[Provide feedback to the event](https://docs.google.com/forms/d/1xjMi-yY72j6qBTcbEb2vj3oP680Ie85jCvxL2QvMY_o/viewform)
+-------
 
 Come by to HFH 1132 and participate on Friday, February 27, from 3 to 5:30 pm.
 -------
